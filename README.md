@@ -12,13 +12,13 @@ NCSSchema1516_Extended is a set of schema definition files and samples to extend
 
 added additional element <Custom> after <Sessions> to include additional fields 
 
-*Additional Customer Fields included which could be imported but not part of original schema
-*Addresses - Additional address lines not part of original schema
-*Events - date based interations with customer (e.g forward appoints)
-*Notes - generic customer notes
-*References - additional references that might be useful to link data
-*Diversity - additional information regarding diversity
-*Actions - link to actionplan
+* Additional Customer Fields included which could be imported but not part of original schema
+* Addresses - Additional address lines not part of original schema
+* Events - date based interations with customer (e.g forward appoints)
+* Notes - generic customer notes
+* References - additional references that might be useful to link data
+* Diversity - additional information regarding diversity
+* Actions - link to actionplan
  
 ```.NET
 xsd.exe AbcCollectionSchema.xsd /c
