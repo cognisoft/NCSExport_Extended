@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AbcCollection xmlns="http://schemas.imsservices.com/NCS/AbcCollection/2015">
+  <Header>
+    <CollectionDetails>
+      <CalendarMonth>07</CalendarMonth>
+      <CalendarYear>2015</CalendarYear>
+      <FilePreparationDate>2015-01-01T13:02:13</FilePreparationDate>
+    </CollectionDetails>
+    <Source>
+      <ProtectiveMarking>OFFICIAL-SENSITIVE-Personal</ProtectiveMarking>
+      <TouchpointID>0000000001</TouchpointID>
+      <UKPRN>10004177</UKPRN>
+      <SoftwareSupplier>CompanyName</SoftwareSupplier>
+      <SoftwarePackage>SoftwarePack</SoftwarePackage>
+      <Release>2015-01-02T13:02:13</Release>
+    </Source>
+  </Header>
+  <Payload>
+    <Contractor>
+      <NumberOfEmployersActual>34</NumberOfEmployersActual>
+      <NumberOfSchoolsActual>33</NumberOfSchoolsActual>
+      <TotalMonthlyInspirationSpendActual>100</TotalMonthlyInspirationSpendActual>
+      <OffenderAggregates>
+        <NumberOfCustomersSeenInCustody>233</NumberOfCustomersSeenInCustody>
+        <NumberOfCustomerSatisfactionOutcomesInCustody>23</NumberOfCustomerSatisfactionOutcomesInCustody>
+        <NumberOfCareerManagementOutcomesInCustody>5</NumberOfCareerManagementOutcomesInCustody>
+        <NumberOfSustainableEmploymentOutcomesInCustody>3</NumberOfSustainableEmploymentOutcomesInCustody>
+        <NumberOfAccreditedLearningOutcomesInCustody>55</NumberOfAccreditedLearningOutcomesInCustody>
+        <NumberOfCareerProgressionOutcomesInCustody>5</NumberOfCareerProgressionOutcomesInCustody>
+      </OffenderAggregates>
+    </Contractor>
+    <Customers>
+      <Customer>
+        <TouchpointCustomerID>01</TouchpointCustomerID>
+        <CdsCustomerID>12345</CdsCustomerID>
+        <DateOfBirth>2015-02-03</DateOfBirth>
+        <Ethnicity>Asian or Asian British – Bangladeshi</Ethnicity>
+        <Gender>Male</Gender>
+        <LearningDifficulty>DYSLEXIA</LearningDifficulty>
+        <DisabilityType>Hearing Impairment</DisabilityType>
+        <GivenName>John</GivenName>
+        <FamilyName>Jones</FamilyName>
+        <TerminationOfServiceReason></TerminationOfServiceReason>
+        <NINumber>SC123456A</NINumber>
+        <LLAAccountNumber>123xyd</LLAAccountNumber>
+        <CustomerType>Individual</CustomerType>
+        <ParticipateResearchEvaluation>1</ParticipateResearchEvaluation>
+        <EUCitizen>1</EUCitizen>
+        <Contact>
+          <PrimaryPhoneNumber>01234555584</PrimaryPhoneNumber>
+          <AlternativePhoneNumber>07854625415</AlternativePhoneNumber>
+          <ContactEmail>abc@xyz.co.uk</ContactEmail>
+          <ContactPreference>Email</ContactPreference>
+        </Contact>
+        <Address>
+          <HomePostcode>BR9 0JD</HomePostcode>
+          <AlternativePostCode>E14 8DD</AlternativePostCode>
+        </Address>
+        <Sessions>
+          <Session>
+            <ActionPlan>
+              <ActionPlanID>1</ActionPlanID>
+              <SessionDate>2015-02-04</SessionDate>
+              <MainDeliveryType>Face to Face</MainDeliveryType>
+              <BenefitType>JSA</BenefitType>
+              <ReferralType>JCP Referred</ReferralType>
+              <SourceOfAwarenessL1>Non-media</SourceOfAwarenessL1>
+              <SourceOfAwarenessL2>Employer</SourceOfAwarenessL2>
+              <PriorityGroupL1>1</PriorityGroupL1>
+              <PriorityGroupL2>
+                <PriorityGroup>Priority Group 1</PriorityGroup>
+              </PriorityGroupL2>
+              <EducationProgression>
+                <EducationAttainmentLevel>Level 1 or Equivalent</EducationAttainmentLevel>
+              </EducationProgression>
+              <EmploymentProgression>
+                <EmploymentStatus>Unemployed</EmploymentStatus>
+                <LengthOfUnEmployment>Less than 3 Months</LengthOfUnEmployment>
+              </EmploymentProgression>
+              <LearningProgression>
+                <LearningStatus>Not in learning</LearningStatus>
+              </LearningProgression>
+              <Outcomes>
+                <Outcome>
+                  <OutcomeID>1234</OutcomeID>
+                  <OutcomeType>Customer Satisfaction</OutcomeType>
+                  <OutcomeClaimed>1</OutcomeClaimed>
+                  <OutcomeAchieved>1</OutcomeAchieved>
+                  <OutcomeEffectiveDate>2015-02-02</OutcomeEffectiveDate>
+                </Outcome>
+              </Outcomes>
+            </ActionPlan>
+          </Session>
+        </Sessions>
+        <Custom>
+          <DateEntered>2016-09-29T00:00:00</DateEntered>
+          <DateEnteredBy>Bob Smith</DateEnteredBy>
+          <DateEnteredBy_Email>Bob@cognisoft.co.uk</DateEnteredBy_Email>
+          <DateChanged>2016-10-01T00:00:00</DateChanged>
+          <DateChangedBy>Jane Doe</DateChangedBy>
+          <DateChangedBy_Email>Jane@cognisoft.co.uk</DateChangedBy_Email>
+          <Title>Mr</Title>
+          <DateOfTermination>2017-10-01</DateOfTermination>
+          <AlternativeNumber>01617772900</AlternativeNumber>
+          <IntroducedBy>10 - Job Centre Plus</IntroducedBy>
+          <IntroducedByAdditionalInfo>called up job centre</IntroducedByAdditionalInfo>
+          <OptInMarketResearch>0</OptInMarketResearch>
+          <OptInUserResearch>0</OptInUserResearch>
+          <UniqueLearnerNumber>195124111</UniqueLearnerNumber>
+          <Addresses>
+            <Address>
+              <Address1>145 Washway Road</Address1>
+              <Address2>Sale</Address2>
+              <Address3>Manchester</Address3>
+              <Address4>M337PE</Address4>
+              <Address5>Cheshire</Address5>
+              <DateEntered>2016-09-16T10:30:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Address>
+          </Addresses>
+          <Events>
+            <Event>
+              <ID>289523092</ID>
+              <TypeDescription>Customer Contact</TypeDescription>
+              <CategoryDescription>Phone Call</CategoryDescription>
+              <DateStart>2016-09-29T00:00:00</DateStart>
+              <Notes>Something happened on this call today</Notes>
+              <DateEntered>2016-09-29T09:54:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Event>
+            <Event>
+              <ID>2589213590</ID>
+              <TypeDescription>Customer Contact</TypeDescription>
+              <CategoryDescription>Phone Call</CategoryDescription>
+              <DateStart>2016-10-05T00:00:00</DateStart>
+              <Notes>
+                we had a call about something
+              </Notes>
+              <DateEntered>2016-10-05T10:53:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Event>
+          </Events>
+          <Notes>
+            <Note>
+              <ID>1112415</ID>
+              <Type>Personal Notes</Type>
+              <Notes>These are some notes about this person</Notes>
+              <DateEntered>2016-09-30T16:22:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Note>
+          </Notes>
+          <References>
+            <Reference>
+              <ID>17474</ID>
+              <ReferenceType>CDSCustomerID</ReferenceType>
+              <TextReference>316ac5-12tc-aawc-awd5-adwe1234A123</TextReference>
+              <DateReference>2016-09-16T10:30:00</DateReference>
+              <DateEntered>2016-09-16T10:30:00</DateEntered>
+              <DateEnteredBy>CDS</DateEnteredBy>
+              <DateEnteredBy_Email>Cds@cognisoft.co.uk</DateEnteredBy_Email>
+              <DateChanged>2016-09-16T10:30:00</DateChanged>
+              <DateChangedBy>CDS</DateChangedBy>
+              <DateChangedBy_Email>Cds@cognisoft.co.uk</DateChangedBy_Email>
+            </Reference>
+          </References>
+          <Diversity>
+            <ConsentToCollectEthnicity>0</ConsentToCollectEthnicity>
+            <ConsentToCollectLLDDHealth>1</ConsentToCollectLLDDHealth>
+            <PrimaryLearningDifficultyOrDisability>4 - Visual impairment</PrimaryLearningDifficultyOrDisability>
+            <SecondaryLearningDifficultyOrDisability>98 - Prefer not to say</SecondaryLearningDifficultyOrDisability>
+            <DateEntered>2016-09-30T16:22:00</DateEntered>
+            <DateEnteredBy>Bob Smith</DateEnteredBy>
+            <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>            
+          </Diversity>
+          <Actions>
+            <Action>
+              <ID>25938295289059</ID>
+              <ActionPlanID>1</ActionPlanID>
+              <ActionType>Initial Meeting</ActionType>
+              <DateActionAgreed>2016-09-16T10:30:00</DateActionAgreed>
+              <DateActionAimsToBeCompletedBy>2016-12-01T10:30:00</DateActionAimsToBeCompletedBy>
+              <ActionSummary>We talked about x y and z</ActionSummary>
+              <ActionStatus>1 - Not Started</ActionStatus>
+              <PersonResponsible>1 - Customer</PersonResponsible>
+              <DateEntered>2016-09-16T10:30:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Action>
+          </Actions>
+        </Custom>
+      </Customer>
+    </Customers>
+  </Payload>
+</AbcCollection>
