@@ -112,11 +112,8 @@
               <Address1>145 Washway Road</Address1>
               <Address2>Sale</Address2>
               <Address3>Manchester</Address3>
-              <Address4>M337PE</Address4>
-              <Address5>Cheshire</Address5>
-              <DateEntered>2016-09-16T10:30:00</DateEntered>
-              <DateEnteredBy>Bob Smith</DateEnteredBy>
-              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+              <Town>M337PE</Town>
+              <County>Cheshire</County>
             </Address>
           </Addresses>
           <Events>
@@ -126,6 +123,20 @@
               <CategoryDescription>Phone Call</CategoryDescription>
               <DateStart>2016-09-29T00:00:00</DateStart>
               <Notes>Something happened on this call today</Notes>
+              <Venue>
+                <Name>Cognisoft Ltd</Name>
+                <Address>
+                  <Address1>145 Washway Road</Address1>
+                  <Address2>Sale</Address2>
+                  <Address3>Manchester</Address3>
+                  <Town>Cheshire</Town>
+                  <County>M33 7PE</County>
+                </Address>
+              </Venue>
+              <AdviserName>Bob Smith</AdviserName>
+              <AdviserEmail>bob@cognisoft.co.uk</AdviserEmail>
+              <AdviserPhoneNumber>01617772900</AdviserPhoneNumber>
+              <AdviserNotes>some notes</AdviserNotes>
               <DateEntered>2016-09-29T09:54:00</DateEntered>
               <DateEnteredBy>Bob Smith</DateEnteredBy>
               <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
@@ -186,11 +197,31 @@
               <ActionSummary>We talked about x y and z</ActionSummary>
               <ActionStatus>1 - Not Started</ActionStatus>
               <PersonResponsible>1 - Customer</PersonResponsible>
+              <CurrentSituation>some situational notes</CurrentSituation>
+              <AdviserName>Bob Smith</AdviserName>
+              <AdviserEmail>bob@cognisoft.co.uk</AdviserEmail>
+              <AdviserPhoneNumber>01617772900</AdviserPhoneNumber>
+              <AdviserNotes>some notes</AdviserNotes>
               <DateEntered>2016-09-16T10:30:00</DateEntered>
               <DateEnteredBy>Bob Smith</DateEnteredBy>
               <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
             </Action>
           </Actions>
+          <Goals>
+            <Goal>
+              <ID>124910</ID>
+              <ActionPlanID>1</ActionPlanID>
+              <Summary>some summary information</Summary>
+              <GoalType>Work</GoalType>
+              <AdviserName>Bob Smith</AdviserName>
+              <AdviserEmail>bob@cognisoft.co.uk</AdviserEmail>
+              <AdviserPhoneNumber>01617772900</AdviserPhoneNumber>
+              <AdviserNotes>some notes</AdviserNotes>
+              <DateEntered>2016-09-16T10:30:00</DateEntered>
+              <DateEnteredBy>Bob Smith</DateEnteredBy>
+              <DateEnteredBy_Email>Bob@Smith.co.uk</DateEnteredBy_Email>
+            </Goal>
+          </Goals>
         </Custom>
       </Customer>
     </Customers>
